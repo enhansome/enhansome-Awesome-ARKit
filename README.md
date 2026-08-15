@@ -20,10 +20,10 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,525 | 🐛 51 | 🌐 Swift | 📅 2026-06-02 - Combines the high accuracy of AR with the scale of GPS data
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,282 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
 * [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,332 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
-* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,699 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
+* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,697 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,654 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,555 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
-* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,526 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
+* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,525 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,280 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,220 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) ⚠️ Archived - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
@@ -45,7 +45,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 384 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
 * [Measure](https://github.com/levantAJ/Measure) ⭐ 381 | 🐛 3 | 🌐 Swift | 📅 2020-11-13 - Using ARKit to make calculate distance of real world objects
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) ⚠️ Archived - "Tracking" vertical planes and occluding virtual objects with real world geometry.
-* [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 332 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
+* [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 331 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
 * [Baraba](https://github.com/nsoojin/baraba) ⭐ 322 | 🐛 0 | 🌐 Swift | 📅 2020-03-21 - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
 * [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) ⭐ 290 | 🐛 0 | 🌐 Swift | 📅 2017-11-16 - Show your GitHub commit records in 3D with ARKit and SceneKit
 * [ARBottleJump](https://github.com/songkuixi/ARBottleJump) ⭐ 282 | 🐛 0 | 🌐 Swift | 📅 2018-11-13 - An ARKit version of WeChat Bottle Jump game.
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
