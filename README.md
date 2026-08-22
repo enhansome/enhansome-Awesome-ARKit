@@ -18,7 +18,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # Projects
 
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,527 | 🐛 51 | 🌐 Swift | 📅 2026-06-02 - Combines the high accuracy of AR with the scale of GPS data
-* [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,282 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
+* [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,283 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
 * [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,333 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,697 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,654 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
@@ -30,7 +30,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 812 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
 * [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 784 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) ⭐ 723 | 🐛 2 | 🌐 Swift | 📅 2018-06-22 - Draw with bare fingers in the air using ARKit
-* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 714 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 715 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 693 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 610 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
