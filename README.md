@@ -33,7 +33,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 715 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 693 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
-* [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 610 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
+* [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 611 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) ⭐ 537 | 🐛 1 | 🌐 Swift | 📅 2019-07-22 - Power! Unlimited power for ARKit 2.0! (Samples)
 * [Findme](https://github.com/mmoaay/Findme) ⭐ 489 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) ⚠️ Archived - Apple ARKit example app
