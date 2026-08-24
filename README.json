@@ -15,7 +15,7 @@
             "last_commit": "2026-06-02T22:18:49Z",
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5527
+            "stars": 5528
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-08T04:57:05Z",
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2332
+            "stars": 2331
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2018-03-14T09:04:22Z",
             "owner": "NovatecConsulting",
             "repo": "FaceRecognition-in-ARKit",
-            "stars": 837
+            "stars": 836
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-07-21T08:32:51Z",
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1304,7 +1304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:57:47.798Z",
+    "last_updated": "2026-08-24T04:02:07.058Z",
     "original_repository": "olucurious/Awesome-ARKit",
     "original_repository_id": 95652496,
     "original_repository_sha": "badeebcc2d5c0fa437bd7514e907877f0ead1685",
