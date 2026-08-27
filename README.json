@@ -75,7 +75,7 @@
             "last_commit": "2022-10-24T18:26:45Z",
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1654
+            "stars": 1653
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-11-04T14:09:53Z",
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1553
+            "stars": 1552
           }
         },
         {
@@ -1304,9 +1304,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:55.568Z",
-    "original_repository": "olucurious/Awesome-ARKit",
-    "original_repository_id": 95652496,
+    "last_updated": "2026-08-27T11:21:12.678Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 95652496,
+      "language": "Swift",
+      "last_commit": "2024-05-09T12:55:22Z",
+      "owner": "olucurious",
+      "repo": "Awesome-ARKit",
+      "stars": 7987
+    },
     "original_repository_sha": "badeebcc2d5c0fa437bd7514e907877f0ead1685",
     "enhanced_repository": "enhansome/enhansome-Awesome-ARKit",
     "enhanced_repository_description": null,
