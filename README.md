@@ -19,7 +19,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,527 | 🐛 51 | 🌐 Swift | 📅 2026-06-02 - Combines the high accuracy of AR with the scale of GPS data
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,283 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
-* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,331 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
+* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,332 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,697 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,653 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,552 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
