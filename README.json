@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combines the high accuracy of AR with the scale of GPS data.",
+            "homepage": null,
             "id": 97334832,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-02T22:18:49Z",
+            "open_issues": 51,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5527
+            "stars": 5527,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "corelocation",
+              "gps-data",
+              "north-calibration"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -26,12 +37,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👨🏻‍💻 Examples of new iOS 11 APIs",
+            "homepage": null,
             "id": 93403131,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-12-31T11:32:36Z",
+            "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3283
+            "stars": 3283,
+            "topics": [
+              "arkit",
+              "core-nfc",
+              "coreml",
+              "ios11",
+              "swift",
+              "vision",
+              "xcode9"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -42,12 +66,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬆️ Media Capture in Swift",
+            "homepage": null,
             "id": 32829086,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-08T04:57:05Z",
+            "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2331
+            "stars": 2331,
+            "topics": [
+              "ar",
+              "arkit",
+              "augmented-reality",
+              "avfoundation",
+              "camera",
+              "capture",
+              "coreimage",
+              "custom",
+              "instagram",
+              "ios",
+              "media",
+              "mixed-reality",
+              "nextlevel",
+              "photography",
+              "snapchat",
+              "swift",
+              "tiktok",
+              "video",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -58,12 +107,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.",
+            "homepage": null,
             "id": 97212044,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-08-23T17:31:10Z",
+            "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1697
+            "stars": 1697,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "coreml",
+              "deep-learning",
+              "ios",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -74,12 +135,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.",
+            "homepage": null,
             "id": 109212956,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-24T18:26:45Z",
+            "open_issues": 56,
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1653
+            "stars": 1653,
+            "topics": [
+              "arkit",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -90,12 +159,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code examples for ARKit.",
+            "homepage": null,
             "id": 104130942,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-11-04T14:09:53Z",
+            "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1552
+            "stars": 1552,
+            "topics": [
+              "arkit",
+              "coreml",
+              "ios",
+              "ios11",
+              "metal",
+              "scenekit",
+              "swift",
+              "swift-4"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -106,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Augmented Reality Tetris made with ARKit and SceneKit",
+            "homepage": null,
             "id": 95875527,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-25T02:56:23Z",
+            "open_issues": 1,
             "owner": "exyte",
             "repo": "ARTetris",
-            "stars": 1525
+            "stars": 1525,
+            "topics": [
+              "arkit",
+              "ios",
+              "scenekit",
+              "swift",
+              "tetromino"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -122,12 +216,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mesure distance using apple ARKit",
+            "homepage": null,
             "id": 96535097,
             "language": "Swift",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-28T01:49:07Z",
+            "open_issues": 7,
             "owner": "duzexu",
             "repo": "ARuler",
-            "stars": 1280
+            "stars": 1280,
+            "topics": [
+              "apple-arkit",
+              "arkit",
+              "mesure-distance",
+              "ruler",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -138,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code examples for Depth APIs in iOS",
+            "homepage": null,
             "id": 147592272,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-11-04T14:31:53Z",
+            "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1220
+            "stars": 1220,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -154,12 +265,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.",
+            "homepage": null,
             "id": 102246074,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-03-14T09:04:22Z",
+            "open_issues": 5,
             "owner": "NovatecConsulting",
             "repo": "FaceRecognition-in-ARKit",
-            "stars": 836
+            "stars": 836,
+            "topics": [
+              "arkit",
+              "coreml",
+              "face-recognition",
+              "ios",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -170,12 +292,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo Augmented Reality shooter made with ARKit in Swift (iOS 11)",
+            "homepage": "http://farice.github.io",
             "id": 93508738,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-14T16:15:29Z",
+            "open_issues": 2,
             "owner": "farice",
             "repo": "ARShooter",
-            "stars": 812
+            "stars": 812,
+            "topics": [
+              "apple",
+              "arkit",
+              "augmented-reality",
+              "demo",
+              "fps",
+              "game",
+              "ios",
+              "ios11",
+              "swift",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -186,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick demo of 3d drawing in ARKit using metal + SceneKit. NOTE: This is experimental code!",
+            "homepage": null,
             "id": 95315714,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-01-23T17:20:50Z",
+            "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 784
+            "stars": 784,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -202,12 +345,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draw with bare fingers in the air using ARKit",
+            "homepage": null,
             "id": 99117578,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-06-22T19:48:36Z",
+            "open_issues": 2,
             "owner": "oabdelkarim",
             "repo": "ARPaint",
-            "stars": 723
+            "stars": 723,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "ios11",
+              "mixed-reality",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -218,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AR相册  Photo Album For AR ",
+            "homepage": null,
             "id": 136457665,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-03-20T04:14:41Z",
+            "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 715
+            "stars": 715,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -234,12 +394,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
+            "homepage": null,
             "id": 97085532,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-09T04:32:26Z",
+            "open_issues": 8,
             "owner": "Boris-Em",
             "repo": "ARCharts",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "carthage",
+              "charts",
+              "cocapods",
+              "graphs",
+              "ios",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -250,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library uses ARKit Face Tracking in order to catch user's smile.",
+            "homepage": null,
             "id": 112859454,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-08-28T01:52:05Z",
+            "open_issues": 0,
             "owner": "rsrbk",
             "repo": "SmileToUnlock",
-            "stars": 627
+            "stars": 627,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -266,12 +445,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "通过ARKit实现的太阳系动画",
+            "homepage": null,
             "id": 97138362,
             "language": "Objective-C",
+            "license": "GPL-2.0",
             "last_commit": "2018-03-25T02:45:26Z",
+            "open_issues": 0,
             "owner": "miliPolo",
             "repo": "ARSolarPlay",
-            "stars": 611
+            "stars": 611,
+            "topics": [
+              "arkit",
+              "ios",
+              "object-c",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -282,12 +471,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Power! Unlimited power for ARKit 2.0!",
+            "homepage": null,
             "id": 147675695,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-07-22T06:19:27Z",
+            "open_issues": 1,
             "owner": "kboy-silvergym",
             "repo": "ARKit-Emperor",
-            "stars": 537
+            "stars": 537,
+            "topics": [
+              "arkit",
+              "ios",
+              "ios12",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -298,12 +498,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ARKit App that can help your friends to find you",
+            "homepage": null,
             "id": 104620626,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2017-12-12T08:58:13Z",
+            "open_issues": 1,
             "owner": "mmoaay",
             "repo": "Findme",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "apple",
+              "arkit",
+              "ios",
+              "navigation",
+              "routing",
+              "searching",
+              "sharing",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -314,12 +528,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apple ARKit example app",
+            "homepage": null,
             "id": 93794918,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-09-28T15:11:29Z",
+            "open_issues": 6,
             "owner": "markdaws",
             "repo": "arkit-by-example",
-            "stars": 481
+            "stars": 481,
+            "topics": [
+              "apple",
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -330,12 +555,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Well known game Snake written in Swift using ARKit.",
+            "homepage": null,
             "id": 98191893,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-10-22T14:29:09Z",
+            "open_issues": 4,
             "owner": "PGSSoft",
             "repo": "3DSnakeAR",
-            "stars": 475
+            "stars": 475,
+            "topics": [
+              "arkit",
+              "ios",
+              "scenekit",
+              "snake",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -346,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twilio Video Quickstart for iOS",
+            "homepage": "https://www.twilio.com/docs/api/video",
             "id": 48068060,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-21T08:32:51Z",
+            "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -362,12 +603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "get started with ARKit - a little exercise for beginners",
+            "homepage": null,
             "id": 108020499,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-24T12:55:23Z",
+            "open_issues": 0,
             "owner": "codePrincess",
             "repo": "ARStarter",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -378,12 +624,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Changed the default ARKit project to draw a line where the camera is positioned",
+            "homepage": null,
             "id": 94025043,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-25T15:53:44Z",
+            "open_issues": 3,
             "owner": "lapfelix",
             "repo": "ARKit-line-drawing",
-            "stars": 409
+            "stars": 409,
+            "topics": [
+              "arkit",
+              "draw",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -394,12 +649,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tic-Tac-Toe implemented using ARKit+Scenekit",
+            "homepage": null,
             "id": 94884123,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-02T13:23:32Z",
+            "open_issues": 4,
             "owner": "bjarnel",
             "repo": "arkit-tictactoe",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "arkit",
+              "scenekit",
+              "swift",
+              "tictactoe"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -410,12 +675,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit  - Place virtual objects using ARKit. ",
+            "homepage": "https://ignacio-chiazzo.github.io/ARKit/",
             "id": 94443566,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-16T00:22:47Z",
+            "open_issues": 4,
             "owner": "ignacio-chiazzo",
             "repo": "ARKit",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "apple",
+              "ar",
+              "ar-experiences",
+              "ar-illusions",
+              "arkit",
+              "arkit-demo",
+              "arkit-plane",
+              "arkitema",
+              "augmented-reality",
+              "ios",
+              "ios-swift",
+              "iphone",
+              "scenekit",
+              "starter-project",
+              "starter-template",
+              "swift",
+              "virtual-objects",
+              "virtual-reality",
+              "vr",
+              "webxr"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -426,12 +717,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using ARKit to make calculate the distance of real-world objects ",
+            "homepage": null,
             "id": 99982326,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-11-13T09:48:45Z",
+            "open_issues": 3,
             "owner": "levantAJ",
             "repo": "Measure",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "arkit",
+              "arkit-measure",
+              "ios11",
+              "meansu",
+              "swift4",
+              "xcode9"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -442,12 +745,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A demonstration of vertical planes \"tracking\" and occlusions with ARKit+Scenekit",
+            "homepage": null,
             "id": 101303858,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2017-08-24T14:57:07Z",
+            "open_issues": 6,
             "owner": "bjarnel",
             "repo": "arkit-occlusion",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "arkit",
+              "occlusion",
+              "scenekit",
+              "swift",
+              "tracking"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -458,12 +772,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit Demo Application",
+            "homepage": null,
             "id": 103722906,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-06-22T02:09:37Z",
+            "open_issues": 4,
             "owner": "chriswebb09",
             "repo": "ARKitNavigationDemo",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "arkit",
+              "arkit-applemap",
+              "arkit-map",
+              "arkit-roaddirection",
+              "augmented-reality",
+              "augmented-reality-applications",
+              "augmentedreality",
+              "corelocation",
+              "mapkit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -474,12 +803,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit and AVFoundation",
+            "homepage": null,
             "id": 240613919,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-03-21T16:44:30Z",
+            "open_issues": 0,
             "owner": "nsoojin",
             "repo": "baraba",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "arkit",
+              "auto-scroll",
+              "auto-scrolling",
+              "avfoundation",
+              "face-tracker",
+              "ios",
+              "ios-auto-scroll",
+              "ios-face-detection",
+              "ios-library",
+              "swift",
+              "uicollectionview",
+              "uiscrollview",
+              "uitableview"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -490,12 +838,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show your GitHub commit records in 3D with ARKit and SceneKit. 用 ARKit 展示你的 GitHub 提交图",
+            "homepage": null,
             "id": 98911514,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2017-11-16T06:31:41Z",
+            "open_issues": 0,
             "owner": "krayc425",
             "repo": "ARGitHubCommits",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "apple-arkit",
+              "arkit",
+              "arkit-demo",
+              "augmented-reality",
+              "ios11",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -506,12 +867,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ARKit version of WeChat Bottle Jump game. ARKit 版微信跳一跳游戏",
+            "homepage": null,
             "id": 116154796,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2018-11-13T10:27:58Z",
+            "open_issues": 0,
             "owner": "krayc425",
             "repo": "ARBottleJump",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "arkit",
+              "arkit-demo",
+              "ios11",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -522,12 +893,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "After Apple’s introduction of ARKit 2, we have been consistently working behind to create shared-AR experiences. Our goal is to improve the utility of mobile using AR experiences.",
+            "homepage": null,
             "id": 137890219,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-03-05T11:52:10Z",
+            "open_issues": 5,
             "owner": "SimformSolutionsPvtLtd",
             "repo": "ARKit-Prototype",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "arkit",
+              "arkit-demo",
+              "arkit2",
+              "arworldmap",
+              "arworldtrackingsessionconfiguration",
+              "augementedreality",
+              "body-tracking",
+              "example",
+              "face-detection",
+              "image-detection",
+              "image-tracking",
+              "ios",
+              "live",
+              "liveimagefilter",
+              "object-detection",
+              "realitykit",
+              "sample",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -538,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record your SceneKit and ARKit scenes easily.",
+            "homepage": null,
             "id": 101780871,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-11-26T19:22:44Z",
+            "open_issues": 21,
             "owner": "svhawks",
             "repo": "SceneKitVideoRecorder",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -554,12 +955,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.",
+            "homepage": null,
             "id": 100482379,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-01T12:01:43Z",
+            "open_issues": 1,
             "owner": "bjarnel",
             "repo": "arkit-smb-homage",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "arkit",
+              "scenekit",
+              "supermariobros",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -570,12 +981,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AR ruler app can measure length & area",
+            "homepage": "https://itunes.apple.com/us/app/id1287068680",
             "id": 104771142,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-17T07:29:20Z",
+            "open_issues": 5,
             "owner": "tbxark",
             "repo": "Ruler",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "app",
+              "arkit",
+              "aruler",
+              "ios",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -586,12 +1008,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An example of measuring app with ARKit in iOS 11",
+            "homepage": "https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11",
             "id": 97120880,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-01-26T06:20:19Z",
+            "open_issues": 3,
             "owner": "DroidsOnRoids",
             "repo": "MeasureARKit",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "arkit",
+              "ios11",
+              "measure",
+              "ruler",
+              "xcode9"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -602,12 +1035,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best way to record your AR experience!",
+            "homepage": null,
             "id": 175049981,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-23T18:31:35Z",
+            "open_issues": 3,
             "owner": "gorastudio-git",
             "repo": "SCNRecorder",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "arkit",
+              "ios",
+              "scenekit",
+              "video-recording"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -618,12 +1061,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playback videos using ARKit and AVFoundation.",
+            "homepage": null,
             "id": 102977508,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2020-12-14T04:06:51Z",
+            "open_issues": 0,
             "owner": "MaximAlien",
             "repo": "ARPlayer",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "augmented-reality-application",
+              "avfoundation",
+              "avplayer",
+              "ios11",
+              "scenekit",
+              "video-player",
+              "video-streaming"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -634,12 +1092,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic ARKit example that detects planes and makes them lava.",
+            "homepage": null,
             "id": 93881475,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-11-16T05:32:55Z",
+            "open_issues": 1,
             "owner": "arirawr",
             "repo": "ARKit-FloorIsLava",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "ar",
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "ios11",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -650,12 +1121,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":airplane: An augmented reality app to visualize and discover the planes flying around you. Finalist at Hack the North 2017 in Waterloo, ON, Canada.",
+            "homepage": "https://devpost.com/software/arplane",
             "id": 103731989,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-03-10T16:01:37Z",
+            "open_issues": 0,
             "owner": "HTN-2017",
             "repo": "AR-Planes",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "arkit",
+              "ios",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -666,12 +1146,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS11 ARKit (3D of Wolf 🐺 狼)",
+            "homepage": "https://youtu.be/Jy47CSEZDSU",
             "id": 94280639,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-05T07:27:56Z",
+            "open_issues": 1,
             "owner": "yx79",
             "repo": "ARKit-Wolf",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "arkit",
+              "ios11",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -682,12 +1171,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👻 Augmented reality game in a pixel/billboard style",
+            "homepage": null,
             "id": 117014208,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-05-08T15:39:31Z",
+            "open_issues": 1,
             "owner": "pedrommcarrasco",
             "repo": "ARbusters",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "arkit",
+              "avplayer",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -698,12 +1197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit framework demo for our article",
+            "homepage": "https://www.whitesmith.co/blog/arkit-introduction",
             "id": 97645420,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-25T09:32:49Z",
+            "open_issues": 1,
             "owner": "whitesmith",
             "repo": "MeasureThings",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "ar",
+              "arkit",
+              "ios",
+              "ios11",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -714,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit demo that streams a video on a wall",
+            "homepage": null,
             "id": 129626819,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-04-17T17:33:43Z",
+            "open_issues": 1,
             "owner": "Bersaelor",
             "repo": "WallStreaming",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -730,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.",
+            "homepage": null,
             "id": 114292748,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-01-17T15:03:43Z",
+            "open_issues": 5,
             "owner": "svhawks",
             "repo": "ARKitEnvironmentMapper",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -746,12 +1266,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demonstrates using ARKit in iOS to apply metal shaders to real world surfaces",
+            "homepage": "https://blog.mattbierner/reality-shaders/",
             "id": 280966365,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-12-04T11:39:45Z",
+            "open_issues": 1,
             "owner": "mattbierner",
             "repo": "reality-shaders-example",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "arkit",
+              "ios",
+              "ios-app",
+              "metal",
+              "metal-shaders",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -762,12 +1294,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game inspired by Pokemon Go build with ARKit and SpriteKit",
+            "homepage": null,
             "id": 96243246,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-08-14T21:55:12Z",
+            "open_issues": 0,
             "owner": "eh3rrera",
             "repo": "ARKitGameSpriteKit",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "spritekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -778,12 +1320,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦕 Unofficial Google Poly SDK in Swift – search, discover, and download 3D models and scenes",
+            "homepage": "http://poly.google.com",
             "id": 131762306,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-11-03T06:59:12Z",
+            "open_issues": 0,
             "owner": "piemonte",
             "repo": "Poly",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "3d",
+              "3d-models",
+              "3d-objects",
+              "arkit",
+              "art",
+              "augmented-reality",
+              "google",
+              "google-poly",
+              "ios",
+              "iphone",
+              "mixed-reality",
+              "poly",
+              "swift",
+              "wavefront",
+              "wavefront-obj"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -794,12 +1357,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shell Game built with ARKit and SceneKit",
+            "homepage": null,
             "id": 100087988,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-25T13:46:35Z",
+            "open_issues": 0,
             "owner": "raw-materials",
             "repo": "arkit-shell-game",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "arkit",
+              "ios11",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -810,12 +1383,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superimposes your image into a 3D world using Metal+Arkit",
+            "homepage": null,
             "id": 116079490,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-01-11T03:27:16Z",
+            "open_issues": 1,
             "owner": "montaguegabe",
             "repo": "arkit-virtual-backdrop",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "arkit",
+              "depth",
+              "metal",
+              "metal-arkit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -826,12 +1410,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make VR with SceneKit & ARKit.",
+            "homepage": null,
             "id": 98301792,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-08-01T08:43:29Z",
+            "open_issues": 0,
             "owner": "WorkerAmo",
             "repo": "ARKitPlusVR",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "6dof",
+              "argmented-reality",
+              "arkit",
+              "ios",
+              "scenekit",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -842,12 +1438,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit sample application is written in Objective C with features of Add, Remove, Scale, Move, Snapshot for single and multiple objects with plane/surface detection, reset session and AR support checking.",
+            "homepage": null,
             "id": 101875740,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-01-08T05:59:47Z",
+            "open_issues": 0,
             "owner": "rajubd49",
             "repo": "ARKit-Sample-ObjC",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "objective-c",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -858,12 +1465,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voxel graphics framework using ARKit + SceneKit",
+            "homepage": null,
             "id": 104912748,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-10-15T16:28:49Z",
+            "open_issues": 1,
             "owner": "VoxxxelAR",
             "repo": "ARVoxelKit",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "arkit",
+              "scenekit",
+              "swift",
+              "voxel"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -874,12 +1491,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARText by ARKit",
+            "homepage": null,
             "id": 101681386,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-28T20:44:13Z",
+            "open_issues": 0,
             "owner": "markzhong88",
             "repo": "ARText",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "captions",
+              "ios11",
+              "swift",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -890,12 +1519,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimenting with ARKit",
+            "homepage": null,
             "id": 103787950,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-06T16:14:52Z",
+            "open_issues": 0,
             "owner": "nagam11",
             "repo": "ARKit-Projects",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "ios11",
+              "scenekit",
+              "swift",
+              "swift-4"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -906,12 +1548,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit soap bubble blower for iOS in AR",
+            "homepage": null,
             "id": 102969633,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-11-28T15:33:44Z",
+            "open_issues": 0,
             "owner": "AppPear",
             "repo": "bubbleblower",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "ar",
+              "arkit",
+              "bubble",
+              "scenekit",
+              "soap",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -922,12 +1576,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean class to create a portal in SceneKit for use in ARKit.",
+            "homepage": null,
             "id": 152983318,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-06-15T11:33:30Z",
+            "open_issues": 0,
             "owner": "maxxfrazer",
             "repo": "SceneKit-PortalMask",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "arkit",
+              "arkit-plugin",
+              "augmented-reality",
+              "cocoapods",
+              "ios",
+              "pods",
+              "portal",
+              "scenekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -938,12 +1607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ARKit app that demonstrate basic functionality for decorating the room with photos from gallery and apply Instagram-like filters on them.",
+            "homepage": null,
             "id": 210106496,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-09-23T08:14:04Z",
+            "open_issues": 0,
             "owner": "nativ18",
             "repo": "ARInstagram",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -954,12 +1628,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "3步制作AR版堆方块游戏make ARStack in 3 steps",
+            "homepage": null,
             "id": 106916416,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-09T08:38:27Z",
+            "open_issues": 0,
             "owner": "XanderXu",
             "repo": "ARStack",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -970,12 +1649,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo of the ARKit Demo project from Xcode 9 as a Swift Playground",
+            "homepage": null,
             "id": 93567881,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-10-16T05:54:01Z",
+            "open_issues": 0,
             "owner": "mhanlon",
             "repo": "ARKitDemoPlayground",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "apple",
+              "arkit",
+              "arkit-demo",
+              "swift-playgrounds"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -986,12 +1675,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Basic Example Creating An Interactive Business Card In ARKit2.",
+            "homepage": null,
             "id": 144460344,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-08-13T09:14:25Z",
+            "open_issues": 3,
             "owner": "BlackMirrorz",
             "repo": "ARKitBusinessCard",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "arkit",
+              "arkit2",
+              "ios",
+              "scenekit",
+              "swift4"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1002,12 +1702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARRuler is a simple iOS app which measures real-world distances using ARKit and Augmented Reality.",
+            "homepage": null,
             "id": 116446253,
             "language": "Swift",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-04-27T07:22:25Z",
+            "open_issues": 3,
             "owner": "vhanagwal",
             "repo": "ARRuler",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1018,12 +1723,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Rubik's Cube using ARKit",
+            "homepage": null,
             "id": 94040927,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-05-25T14:35:54Z",
+            "open_issues": 0,
             "owner": "Nicholas714",
             "repo": "ARRubiks",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios-app"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1034,12 +1748,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！",
+            "homepage": null,
             "id": 94766296,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-06-05T10:33:47Z",
+            "open_issues": 0,
             "owner": "szt243660543",
             "repo": "ARMultiuser",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "arcore",
+              "arkit",
+              "arkit2",
+              "ios",
+              "ios12",
+              "multiplayer",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1050,12 +1777,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Submission for WWDC 2018 Scholarship formatted into an iOS app",
+            "homepage": null,
             "id": 127785730,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-10-11T23:39:35Z",
+            "open_issues": 2,
             "owner": "Nicholas714",
             "repo": "ARBlockTower",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "arkit",
+              "scenekit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1066,12 +1801,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rosberry Portfolio app made with Apple ARKit",
+            "homepage": "https://rosberry.com",
             "id": 102425244,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-09-07T03:33:39Z",
+            "open_issues": 0,
             "owner": "rosberry",
             "repo": "pARtfolio",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "rosberry",
+              "swift4",
+              "xcode9"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1082,12 +1828,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 106980379,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-01-09T13:23:44Z",
+            "open_issues": 0,
             "owner": "chriswebb09",
             "repo": "ARKitAirport",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "arkit",
+              "arkit-demo",
+              "arkit-map",
+              "arkit-navigation"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1098,12 +1854,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flip your card with ARKit",
+            "homepage": null,
             "id": 99219838,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-09-04T03:15:58Z",
+            "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "cARd",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios11"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1114,12 +1879,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.",
+            "homepage": null,
             "id": 191370282,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-06-16T14:58:54Z",
+            "open_issues": 0,
             "owner": "hadiidbouk",
             "repo": "MarvelAR",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "marvel",
+              "scenekit",
+              "swift5"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1130,12 +1907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source game recreating the beloved classic \"Space Invaders\" in the real world!",
+            "homepage": null,
             "id": 104111570,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-10-09T21:38:59Z",
+            "open_issues": 0,
             "owner": "aivantg",
             "repo": "ar-invaders",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1146,12 +1928,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PoC to detect and track parts under a car's hood, with ARKit + Vision + CreateML + RealityKit.",
+            "homepage": null,
             "id": 292822148,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-11-11T11:31:57Z",
+            "open_issues": 0,
             "owner": "eldare",
             "repo": "ARCarGuidePoC",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "arkit",
+              "coreml",
+              "createml",
+              "proof-of-concept",
+              "realitykit",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1162,12 +1956,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic ARKit Demo using SpriteKit (+ SKActions)",
+            "homepage": null,
             "id": 101695325,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-29T10:41:40Z",
+            "open_issues": 0,
             "owner": "nagam11",
             "repo": "ARBalloons",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "arkit",
+              "augmented-reality-applications",
+              "augmentedreality",
+              "ios-app",
+              "spritekit",
+              "swift3"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1178,12 +1984,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "To integrate AR-Quick-Look in your existing iOS application.",
+            "homepage": "https://medium.com/@anand2nigam/how-to-implement-ar-quicklook-in-your-app-18d513a13b9f",
             "id": 190793699,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-10-03T13:27:46Z",
+            "open_issues": 0,
             "owner": "anand2nigam",
             "repo": "AR-Quick-Look",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1194,12 +2007,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 106664222,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-10-14T00:55:26Z",
+            "open_issues": 0,
             "owner": "chriswebb09",
             "repo": "ARKitSpitfire",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "arkit",
+              "arkit-aircraft",
+              "arkit-location",
+              "arkit-map",
+              "arkit-navigation",
+              "arkit-plane"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1210,12 +2035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "With Mokapp2017 Face you can explore ARKit and play with your face.",
+            "homepage": null,
             "id": 112229969,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-05-28T10:17:08Z",
+            "open_issues": 0,
             "owner": "gali8",
             "repo": "Mokapp2017_Face",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1226,12 +2056,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 108750708,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-11-23T12:36:08Z",
+            "open_issues": 4,
             "owner": "mustafaatalar",
             "repo": "uARKit",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "mobile"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1242,12 +2082,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Augmented Reality Movie Trailer made with ARKit and SceneKit.",
+            "homepage": null,
             "id": 144818479,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-07-11T02:25:11Z",
+            "open_issues": 2,
             "owner": "waitingcheung",
             "repo": "ARTrailer",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "image-processing",
+              "ios",
+              "movies",
+              "scenekit",
+              "swift",
+              "tesseract",
+              "tesseract-ocr",
+              "vision",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1258,12 +2115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ARKit box-drawing demo.",
+            "homepage": null,
             "id": 94841261,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-11-26T06:46:15Z",
+            "open_issues": 4,
             "owner": "alinebee",
             "repo": "Boxify",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1274,12 +2136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 142559197,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-07-27T09:50:34Z",
+            "open_issues": 0,
             "owner": "Rageeni",
             "repo": "AR-Drawing",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1290,12 +2157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "With Mokapp2017 World you can explore ARKit and the world around you.",
+            "homepage": null,
             "id": 112190375,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-05-28T10:17:18Z",
+            "open_issues": 0,
             "owner": "gali8",
             "repo": "Mokapp2017_World",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1306,12 +2178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 142570855,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-07-27T11:54:51Z",
+            "open_issues": 1,
             "owner": "Rageeni",
             "repo": "AR-Sections",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1322,12 +2199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 583626463,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-02-08T00:50:35Z",
+            "open_issues": 0,
             "owner": "andrelucassvt",
             "repo": "Blood-Cells-AR",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         }
@@ -1344,12 +2226,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Native binding for iOS ARKit",
+            "homepage": null,
             "id": 96742289,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-01-11T18:46:48Z",
+            "open_issues": 43,
             "owner": "react-native-ar",
             "repo": "react-native-arkit",
-            "stars": 1742
+            "stars": 1742,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "objective-c",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1360,12 +2253,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Using $5 Google Cardboard to replicate HoloLens",
+            "homepage": "https://sites.google.com/view/arheadsetkit",
             "id": 403791515,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-01T23:45:13Z",
+            "open_issues": 3,
             "owner": "philipturner",
             "repo": "ARHeadsetKit",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "augmented-reality",
+              "docc",
+              "google-cardboard",
+              "gpgpu",
+              "ios",
+              "metal",
+              "swift",
+              "virtual-reality"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         },
@@ -1376,12 +2283,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARKit Adobe Air Native Extension for iOS11",
+            "homepage": null,
             "id": 113234829,
             "language": "ActionScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-31T18:44:40Z",
+            "open_issues": 0,
             "owner": "tuarua",
             "repo": "AR-ANE",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "actionscript",
+              "adobe-air",
+              "air-native-extensions",
+              "ane",
+              "arkit",
+              "augmented-reality",
+              "ios",
+              "native-extension",
+              "swift-4"
+            ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
         }
@@ -1390,15 +2312,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:34.991Z",
+    "last_updated": "2026-08-29T04:14:58.096Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
+      "homepage": null,
       "id": 95652496,
       "language": "Swift",
+      "license": null,
       "last_commit": "2024-05-09T12:55:22Z",
+      "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7987
+      "stars": 7987,
+      "topics": [
+        "arkit",
+        "augmented-reality",
+        "ios",
+        "objective-c",
+        "swift"
+      ]
     },
     "original_repository_sha": "badeebcc2d5c0fa437bd7514e907877f0ead1685",
     "enhanced_repository": "enhansome/enhansome-Awesome-ARKit",
