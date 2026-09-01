@@ -19,7 +19,7 @@
             "open_issues": 51,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5526,
+            "stars": 5527,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -116,7 +116,7 @@
             "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1697,
+            "stars": 1696,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1220,
+            "stars": 1221,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -480,7 +480,7 @@
             "open_issues": 1,
             "owner": "kboy-silvergym",
             "repo": "ARKit-Emperor",
-            "stars": 537,
+            "stars": 536,
             "topics": [
               "arkit",
               "ios",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "levantAJ",
             "repo": "Measure",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "arkit",
               "arkit-measure",
@@ -812,7 +812,7 @@
             "open_issues": 0,
             "owner": "nsoojin",
             "repo": "baraba",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "arkit",
               "auto-scroll",
@@ -990,7 +990,7 @@
             "open_issues": 5,
             "owner": "tbxark",
             "repo": "Ruler",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "app",
               "arkit",
@@ -1233,7 +1233,7 @@
             "open_issues": 1,
             "owner": "Bersaelor",
             "repo": "WallStreaming",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -1254,7 +1254,7 @@
             "open_issues": 5,
             "owner": "svhawks",
             "repo": "ARKitEnvironmentMapper",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -1616,7 +1616,7 @@
             "open_issues": 0,
             "owner": "nativ18",
             "repo": "ARInstagram",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2091,7 +2091,7 @@
             "open_issues": 2,
             "owner": "waitingcheung",
             "repo": "ARTrailer",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2187,7 +2187,7 @@
             "open_issues": 1,
             "owner": "Rageeni",
             "repo": "AR-Sections",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:38:39.656Z",
+    "last_updated": "2026-09-01T08:34:41.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7987,
+      "stars": 7988,
       "topics": [
         "arkit",
         "augmented-reality",
