@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:51:12.190Z",
+    "last_updated": "2026-09-03T07:59:05.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7989,
+      "stars": 7990,
       "topics": [
         "arkit",
         "augmented-reality",
