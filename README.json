@@ -1017,7 +1017,7 @@
             "open_issues": 3,
             "owner": "DroidsOnRoids",
             "repo": "MeasureARKit",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "arkit",
               "ios11",
@@ -1711,7 +1711,7 @@
             "open_issues": 3,
             "owner": "vhanagwal",
             "repo": "ARRuler",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:55:22.977Z",
+    "last_updated": "2026-09-05T07:36:40.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",

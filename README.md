@@ -79,7 +79,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARStack](https://github.com/XanderXu/ARStack) ⚠️ Archived - AR version Stack game with ARKit in Swift
 * [ARKitDemoPlayground](https://github.com/mhanlon/ARKitDemoPlayground) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2018-10-16 - A demo of the ARKit Demo project from Xcode 9 as a Swift Playground
 * [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) ⭐ 43 | 🐛 3 | 🌐 Swift | 📅 2018-08-13 - Create and view fully interactive business cards.
-* [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) ⭐ 39 | 🐛 3 | 🌐 Swift | 📅 2020-04-27 - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
+* [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) ⭐ 40 | 🐛 3 | 🌐 Swift | 📅 2020-04-27 - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
 * [ARRubiks](https://github.com/Nicholas714/ARRubiks) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2018-05-25 - A Rubik's Cube that you can put on a table
 * [ARMultiuser](https://github.com/szt243660543/ARMultiuser) ⭐ 34 | 🐛 0 | 🌐 Objective-C | 📅 2018-06-05 - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) ⭐ 33 | 🐛 2 | 🌐 Swift | 📅 2018-10-11 - Show a Block Tower to see how you can stack up against gravity
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
