@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2332,
+            "stars": 2331,
             "topics": [
               "ar",
               "arkit",
@@ -333,7 +333,7 @@
             "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 784,
+            "stars": 785,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:12:11.683Z",
+    "last_updated": "2026-09-08T08:00:09.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7988,
+      "stars": 7987,
       "topics": [
         "arkit",
         "augmented-reality",
