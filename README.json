@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1221,
+            "stars": 1220,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:00:09.606Z",
+    "last_updated": "2026-09-09T08:04:30.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
