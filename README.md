@@ -52,7 +52,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) ⭐ 278 | 🐛 5 | 🌐 Swift | 📅 2025-03-05 - Bluetoothed ARKit 2.0 with ARWorldMap
 * [SceneKitVideoRecorder](https://github.com/svtek/SceneKitVideoRecorder) ⭐ 262 | 🐛 21 | 🌐 Swift | 📅 2020-11-26 - Video and Audio recorder for ARKit projects.
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) ⚠️ Archived - This project is a homage to Super Mario Bros.
-* [Ruler](https://github.com/TBXark/Ruler) ⭐ 257 | 🐛 5 | 🌐 Swift | 📅 2021-05-17 - An AR ruler app can measure length & area
+* [Ruler](https://github.com/TBXark/Ruler) ⭐ 257 | 🐛 5 | 🌐 Swift | 📅 2026-09-14 - An AR ruler app can measure length & area
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit) ⚠️ Archived - Simple app measuring real objects with ARKit (tutorial in articles)
 * [SCNRecorder](https://github.com/gorastudio/SCNRecorder) ⭐ 209 | 🐛 3 | 🌐 Swift | 📅 2024-11-23 - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) ⭐ 138 | 🐛 0 | 🌐 Objective-C | 📅 2020-12-14 - Playback videos using ARKit and AVFoundation📺
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
