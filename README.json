@@ -16,7 +16,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-06-02T22:18:49Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
             "stars": 5525,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:58:57.803Z",
+    "last_updated": "2026-09-20T08:30:53.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7987,
+      "stars": 7986,
       "topics": [
         "arkit",
         "augmented-reality",
