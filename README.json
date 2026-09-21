@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2329,
+            "stars": 2330,
             "topics": [
               "ar",
               "arkit",
@@ -198,7 +198,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "ARTetris",
-            "stars": 1524,
+            "stars": 1523,
             "topics": [
               "arkit",
               "ios",
@@ -633,7 +633,7 @@
             "open_issues": 3,
             "owner": "lapfelix",
             "repo": "ARKit-line-drawing",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "arkit",
               "draw",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:30:53.845Z",
+    "last_updated": "2026-09-21T08:50:43.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
