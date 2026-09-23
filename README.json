@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3282,
+            "stars": 3283,
             "topics": [
               "arkit",
               "core-nfc",
@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2330,
+            "stars": 2332,
             "topics": [
               "ar",
               "arkit",
@@ -144,7 +144,7 @@
             "open_issues": 56,
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1651,
+            "stars": 1650,
             "topics": [
               "arkit",
               "ios"
@@ -333,7 +333,7 @@
             "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -382,7 +382,7 @@
             "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:27:57.131Z",
+    "last_updated": "2026-09-23T08:29:56.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
