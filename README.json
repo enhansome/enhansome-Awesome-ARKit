@@ -144,7 +144,7 @@
             "open_issues": 56,
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "arkit",
               "ios"
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1219,
+            "stars": 1220,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:29:56.105Z",
+    "last_updated": "2026-09-24T08:22:28.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
