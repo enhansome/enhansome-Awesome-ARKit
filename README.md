@@ -54,7 +54,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) ⚠️ Archived - This project is a homage to Super Mario Bros.
 * [Ruler](https://github.com/TBXark/Ruler) ⭐ 257 | 🐛 5 | 🌐 Swift | 📅 2026-09-14 - An AR ruler app can measure length & area
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit) ⚠️ Archived - Simple app measuring real objects with ARKit (tutorial in articles)
-* [SCNRecorder](https://github.com/gorastudio/SCNRecorder) ⭐ 209 | 🐛 3 | 🌐 Swift | 📅 2024-11-23 - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
+* [SCNRecorder](https://github.com/gorastudio/SCNRecorder) ⭐ 210 | 🐛 3 | 🌐 Swift | 📅 2024-11-23 - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) ⭐ 138 | 🐛 0 | 🌐 Objective-C | 📅 2020-12-14 - Playback videos using ARKit and AVFoundation📺
 * [ARKit-FloorIsLava](https://github.com/arirawr/ARKit-FloorIsLava) ⭐ 127 | 🐛 1 | 🌐 Swift | 📅 2018-11-16 - Basic ARKit example that detects planes and makes them lava.
 * [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) ⚠️ Archived - Visualize and discover the planes flying around you ✈️
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
