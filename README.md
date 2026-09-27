@@ -38,11 +38,11 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Findme](https://github.com/mmoaay/Findme) ⭐ 488 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) ⚠️ Archived - Apple ARKit example app
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) ⭐ 475 | 🐛 4 | 🌐 Swift | 📅 2018-10-22 - Snake 3D game 🐍
-* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 473 | 🐛 43 | 🌐 Swift | 📅 2026-07-21 - Twilio Video chat with AR in scene
+* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 474 | 🐛 43 | 🌐 Swift | 📅 2026-07-21 - Twilio Video chat with AR in scene
 * [ARStarter](https://github.com/codePrincess/ARStarter) ⭐ 471 | 🐛 0 | 🌐 Swift | 📅 2021-11-24 - get started with ARKit - a little exercise for beginners.
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) ⭐ 409 | 🐛 3 | 🌐 Swift | 📅 2017-08-25 - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived - ARKit based tic-tac-toe with a decent AI opponent
-* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 384 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
+* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 383 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
 * [Measure](https://github.com/levantAJ/Measure) ⭐ 382 | 🐛 3 | 🌐 Swift | 📅 2020-11-13 - Using ARKit to make calculate distance of real world objects
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) ⚠️ Archived - "Tracking" vertical planes and occluding virtual objects with real world geometry.
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 331 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
