@@ -30,7 +30,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 811 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
 * [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 786 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) ⭐ 722 | 🐛 2 | 🌐 Swift | 📅 2018-06-22 - Draw with bare fingers in the air using ARKit
-* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 716 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 715 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 693 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 611 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
