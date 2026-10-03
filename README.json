@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3283,
+            "stars": 3282,
             "topics": [
               "arkit",
               "core-nfc",
@@ -768,7 +768,7 @@
         {
           "node_type": "item",
           "title": "ARKit Navigation Demo",
-          "description": null,
+          "description": "chriswebb09/ARKitNavigationDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2174,7 +2174,7 @@
         {
           "node_type": "item",
           "title": "AR Sections",
-          "description": null,
+          "description": "Rageeni/AR-Sections",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:39:54.799Z",
+    "last_updated": "2026-10-03T04:24:11.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
