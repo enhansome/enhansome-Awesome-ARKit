@@ -23,16 +23,16 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,695 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,650 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,552 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
-* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,524 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
+* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,523 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,278 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,220 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) ⚠️ Archived - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 811 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
 * [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 786 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) ⭐ 722 | 🐛 2 | 🌐 Swift | 📅 2018-06-22 - Draw with bare fingers in the air using ARKit
-* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 715 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 716 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 693 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
-* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 626 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 611 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) ⭐ 535 | 🐛 1 | 🌐 Swift | 📅 2019-07-22 - Power! Unlimited power for ARKit 2.0! (Samples)
 * [Findme](https://github.com/mmoaay/Findme) ⭐ 488 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
@@ -59,8 +59,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-FloorIsLava](https://github.com/arirawr/ARKit-FloorIsLava) ⭐ 127 | 🐛 1 | 🌐 Swift | 📅 2018-11-16 - Basic ARKit example that detects planes and makes them lava.
 * [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) ⚠️ Archived - Visualize and discover the planes flying around you ✈️
 * [iOS11 ARKit (3D of Wolf 🐺 狼)](https://github.com/yx79/ARKit-Wolf) ⭐ 113 | 🐛 1 | 🌐 Swift | 📅 2017-08-05 - iOS11 ARKit (3D of Wolf 🐺 狼)
-* [ARbusters](https://github.com/pedrommcarrasco/ARbusters) ⭐ 109 | 🐛 1 | 🌐 Swift | 📅 2020-05-08 - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [MeasureThings](https://github.com/whitesmith/MeasureThings) ⭐ 108 | 🐛 1 | 🌐 Swift | 📅 2017-08-25 - ARKit introduction: measure the distance between two points
+* [ARbusters](https://github.com/pedrommcarrasco/ARbusters) ⭐ 108 | 🐛 1 | 🌐 Swift | 📅 2020-05-08 - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [WallStreaming](https://github.com/Bersaelor/WallStreaming) ⭐ 100 | 🐛 1 | 🌐 Swift | 📅 2018-04-17 - Project demonstrating vertical surface detection and streaming/playing video on a virtual surface.
 * [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) ⭐ 99 | 🐛 5 | 🌐 Swift | 📅 2018-01-17 - Create an environment map from the camera feed to achieve realistic lighting and reflections.
 * [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) ⭐ 96 | 🐛 1 | 🌐 Swift | 📅 2020-12-04 - Apply metal vertex and fragment shaders to real world surfaces.
@@ -184,7 +184,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Resources
 
-* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,741 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
+* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,742 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
 * [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) ⚠️ Archived - High-level framework for experimenting with AR and replicating Microsoft Hololens.
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) ⭐ 38 | 🐛 0 | 🌐 ActionScript | 📅 2020-12-31 - Adobe AIR Native Extension binding for ARKit
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
