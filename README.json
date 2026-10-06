@@ -354,7 +354,7 @@
             "open_issues": 2,
             "owner": "oabdelkarim",
             "repo": "ARPaint",
-            "stars": 722,
+            "stars": 721,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:18:54.756Z",
+    "last_updated": "2026-10-06T10:09:35.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
