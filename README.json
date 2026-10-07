@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5524,
+            "stars": 5525,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -198,7 +198,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "ARTetris",
-            "stars": 1523,
+            "stars": 1522,
             "topics": [
               "arkit",
               "ios",
@@ -454,7 +454,7 @@
             "open_issues": 0,
             "owner": "miliPolo",
             "repo": "ARSolarPlay",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "arkit",
               "ios",
@@ -507,7 +507,7 @@
             "open_issues": 1,
             "owner": "mmoaay",
             "repo": "Findme",
-            "stars": 488,
+            "stars": 487,
             "topics": [
               "apple",
               "arkit",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:41.080Z",
+    "last_updated": "2026-10-07T10:10:23.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7986,
+      "stars": 7985,
       "topics": [
         "arkit",
         "augmented-reality",
