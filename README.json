@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5525,
+            "stars": 5524,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -382,7 +382,7 @@
             "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -940,7 +940,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2020-11-26T19:22:44Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "svhawks",
             "repo": "SceneKitVideoRecorder",
             "stars": 261,
@@ -1433,6 +1433,34 @@
         },
         {
           "node_type": "item",
+          "title": "ARText",
+          "description": "ARText render 3D Text/caption in real world by using ARKit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARText by ARKit",
+            "homepage": null,
+            "id": 101681386,
+            "language": "Swift",
+            "license": null,
+            "last_commit": "2017-08-28T20:44:13Z",
+            "open_issues": 0,
+            "owner": "markzhong88",
+            "repo": "ARText",
+            "stars": 80,
+            "topics": [
+              "arkit",
+              "augmented-reality",
+              "captions",
+              "ios11",
+              "swift",
+              "vr"
+            ]
+          },
+          "first_seen": "2026-08-28T15:16:34.991Z"
+        },
+        {
+          "node_type": "item",
           "title": "ARKit-Sample-ObjC",
           "description": "Sample ARKit Objective-C implementation with features of Add, Remove, Scale, Move single or multiple objects along with plane detection.",
           "children": [],
@@ -1480,34 +1508,6 @@
               "scenekit",
               "swift",
               "voxel"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:34.991Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ARText",
-          "description": "ARText render 3D Text/caption in real world by using ARKit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ARText by ARKit",
-            "homepage": null,
-            "id": 101681386,
-            "language": "Swift",
-            "license": null,
-            "last_commit": "2017-08-28T20:44:13Z",
-            "open_issues": 0,
-            "owner": "markzhong88",
-            "repo": "ARText",
-            "stars": 79,
-            "topics": [
-              "arkit",
-              "augmented-reality",
-              "captions",
-              "ios11",
-              "swift",
-              "vr"
             ]
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:27:24.683Z",
+    "last_updated": "2026-10-09T10:26:11.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
