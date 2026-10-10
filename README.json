@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3282,
+            "stars": 3283,
             "topics": [
               "arkit",
               "core-nfc",
@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2331,
+            "stars": 2330,
             "topics": [
               "ar",
               "arkit",
@@ -116,7 +116,7 @@
             "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:26:11.134Z",
+    "last_updated": "2026-10-10T09:44:27.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
