@@ -43,7 +43,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) ⭐ 409 | 🐛 3 | 🌐 Swift | 📅 2017-08-25 - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived - ARKit based tic-tac-toe with a decent AI opponent
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 383 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
-* [Measure](https://github.com/levantAJ/Measure) ⭐ 382 | 🐛 3 | 🌐 Swift | 📅 2020-11-13 - Using ARKit to make calculate distance of real world objects
+* [Measure](https://github.com/levantAJ/Measure) ⭐ 381 | 🐛 3 | 🌐 Swift | 📅 2020-11-13 - Using ARKit to make calculate distance of real world objects
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) ⚠️ Archived - "Tracking" vertical planes and occluding virtual objects with real world geometry.
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 331 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
 * [Baraba](https://github.com/nsoojin/baraba) ⭐ 323 | 🐛 0 | 🌐 Swift | 📅 2020-03-21 - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
@@ -184,7 +184,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Resources
 
-* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,742 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
+* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,741 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
 * [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) ⚠️ Archived - High-level framework for experimenting with AR and replicating Microsoft Hololens.
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) ⭐ 38 | 🐛 0 | 🌐 ActionScript | 📅 2020-12-31 - Adobe AIR Native Extension binding for ARKit
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
