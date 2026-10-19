@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1552,
+            "stars": 1550,
             "topics": [
               "arkit",
               "coreml",
@@ -537,7 +537,7 @@
             "open_issues": 6,
             "owner": "markdaws",
             "repo": "arkit-by-example",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "apple",
               "arkit",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:57:32.232Z",
+    "last_updated": "2026-10-19T08:44:58.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
