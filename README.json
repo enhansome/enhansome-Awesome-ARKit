@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2335,
+            "stars": 2336,
             "topics": [
               "ar",
               "arkit",
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1550,
+            "stars": 1551,
             "topics": [
               "arkit",
               "coreml",
@@ -382,7 +382,7 @@
             "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -537,7 +537,7 @@
             "open_issues": 6,
             "owner": "markdaws",
             "repo": "arkit-by-example",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "apple",
               "arkit",
@@ -950,6 +950,33 @@
         },
         {
           "node_type": "item",
+          "title": "Ruler",
+          "description": "An AR ruler app can measure length & area",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An AR ruler app can measure length & area",
+            "homepage": "https://itunes.apple.com/us/app/id1287068680",
+            "id": 104771142,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-14T05:40:29Z",
+            "open_issues": 6,
+            "owner": "tbxark",
+            "repo": "Ruler",
+            "stars": 258,
+            "topics": [
+              "app",
+              "arkit",
+              "aruler",
+              "ios",
+              "swift"
+            ]
+          },
+          "first_seen": "2026-08-28T15:16:34.991Z"
+        },
+        {
+          "node_type": "item",
           "title": "arkit-smb-homage",
           "description": "This project is a homage to Super Mario Bros.",
           "children": [],
@@ -969,33 +996,6 @@
               "arkit",
               "scenekit",
               "supermariobros",
-              "swift"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:34.991Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ruler",
-          "description": "An AR ruler app can measure length & area",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An AR ruler app can measure length & area",
-            "homepage": "https://itunes.apple.com/us/app/id1287068680",
-            "id": 104771142,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-09-14T05:40:29Z",
-            "open_issues": 5,
-            "owner": "tbxark",
-            "repo": "Ruler",
-            "stars": 257,
-            "topics": [
-              "app",
-              "arkit",
-              "aruler",
-              "ios",
               "swift"
             ]
           },
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:44:58.722Z",
+    "last_updated": "2026-10-20T08:25:49.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 6,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7988,
+      "stars": 7990,
       "topics": [
         "arkit",
         "augmented-reality",
