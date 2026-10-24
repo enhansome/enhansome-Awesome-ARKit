@@ -225,7 +225,7 @@
             "open_issues": 7,
             "owner": "duzexu",
             "repo": "ARuler",
-            "stars": 1278,
+            "stars": 1277,
             "topics": [
               "apple-arkit",
               "arkit",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:27:29.936Z",
+    "last_updated": "2026-10-24T08:02:33.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",

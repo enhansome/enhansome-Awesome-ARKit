@@ -24,7 +24,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,649 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,551 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,524 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
-* [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,278 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
+* [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,277 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,219 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) ⚠️ Archived - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 810 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
