@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2337,
+            "stars": 2336,
             "topics": [
               "ar",
               "arkit",
@@ -507,7 +507,7 @@
             "open_issues": 1,
             "owner": "mmoaay",
             "repo": "Findme",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "apple",
               "arkit",
@@ -587,7 +587,7 @@
             "id": 48068060,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-07-21T08:32:51Z",
+            "last_commit": "2026-10-27T04:11:39Z",
             "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:47:24.613Z",
+    "last_updated": "2026-10-27T08:53:23.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2321,10 +2321,10 @@
       "language": "Swift",
       "license": null,
       "last_commit": "2024-05-09T12:55:22Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7992,
+      "stars": 7993,
       "topics": [
         "arkit",
         "augmented-reality",
