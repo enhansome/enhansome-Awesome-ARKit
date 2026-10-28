@@ -116,7 +116,7 @@
             "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:53:23.322Z",
+    "last_updated": "2026-10-28T09:33:09.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
