@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5527,
+            "stars": 5526,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T09:50:39.579Z",
+    "last_updated": "2026-10-30T09:54:36.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
