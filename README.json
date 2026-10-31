@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5526,
+            "stars": 5525,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3283,
+            "stars": 3284,
             "topics": [
               "arkit",
               "core-nfc",
@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2336,
+            "stars": 2337,
             "topics": [
               "ar",
               "arkit",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "levantAJ",
             "repo": "Measure",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "arkit",
               "arkit-measure",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T09:54:36.769Z",
+    "last_updated": "2026-10-31T09:31:07.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
