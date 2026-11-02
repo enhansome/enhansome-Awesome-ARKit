@@ -184,7 +184,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Resources
 
-* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,741 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
+* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,740 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
 * [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) ⚠️ Archived - High-level framework for experimenting with AR and replicating Microsoft Hololens.
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) ⭐ 38 | 🐛 0 | 🌐 ActionScript | 📅 2020-12-31 - Adobe AIR Native Extension binding for ARKit
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
