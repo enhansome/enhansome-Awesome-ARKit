@@ -19,11 +19,11 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,525 | 🐛 52 | 🌐 Swift | 📅 2026-06-02 - Combines the high accuracy of AR with the scale of GPS data
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,284 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
-* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,337 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
+* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,336 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,693 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,649 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,550 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
-* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,524 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
+* [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,523 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,278 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,219 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) ⚠️ Archived - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
@@ -184,7 +184,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Resources
 
-* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,740 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
+* [React Native Binding](https://github.com/HippoAR/react-native-arkit) ⭐ 1,741 | 🐛 43 | 🌐 Objective-C | 📅 2023-01-11 - React Native binding for ARKit
 * [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) ⚠️ Archived - High-level framework for experimenting with AR and replicating Microsoft Hololens.
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) ⭐ 38 | 🐛 0 | 🌐 ActionScript | 📅 2020-12-31 - Adobe AIR Native Extension binding for ARKit
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

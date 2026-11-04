@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2337,
+            "stars": 2336,
             "topics": [
               "ar",
               "arkit",
@@ -198,7 +198,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "ARTetris",
-            "stars": 1524,
+            "stars": 1523,
             "topics": [
               "arkit",
               "ios",
@@ -2235,7 +2235,7 @@
             "open_issues": 43,
             "owner": "react-native-ar",
             "repo": "react-native-arkit",
-            "stars": 1740,
+            "stars": 1741,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:44:22.470Z",
+    "last_updated": "2026-11-04T10:47:12.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
