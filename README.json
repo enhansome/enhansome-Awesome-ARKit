@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "arkit",
               "core-nfc",
@@ -144,7 +144,7 @@
             "open_issues": 56,
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1649,
+            "stars": 1648,
             "topics": [
               "arkit",
               "ios"
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1550,
+            "stars": 1549,
             "topics": [
               "arkit",
               "coreml",
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1219,
+            "stars": 1218,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -333,7 +333,7 @@
             "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 786,
+            "stars": 785,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -354,7 +354,7 @@
             "open_issues": 2,
             "owner": "oabdelkarim",
             "repo": "ARPaint",
-            "stars": 720,
+            "stars": 719,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -591,7 +591,7 @@
             "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 474,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:45:03.616Z",
+    "last_updated": "2026-11-07T09:57:31.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 7,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7992,
+      "stars": 7991,
       "topics": [
         "arkit",
         "augmented-reality",
