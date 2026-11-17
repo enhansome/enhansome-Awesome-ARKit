@@ -22,13 +22,13 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,337 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,693 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,648 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
-* [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,548 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
+* [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,549 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,524 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) ⭐ 1,278 | 🐛 7 | 🌐 Swift | 📅 2026-02-28 - ARKit demo ruler app
-* [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,216 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
+* [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) ⭐ 1,217 | 🐛 8 | 🌐 Swift | 📅 2023-11-04 - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) ⚠️ Archived - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 810 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
-* [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 785 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
+* [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 787 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) ⭐ 719 | 🐛 2 | 🌐 Swift | 📅 2018-06-22 - Draw with bare fingers in the air using ARKit
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 717 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 694 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
@@ -38,7 +38,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Findme](https://github.com/mmoaay/Findme) ⭐ 486 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) ⚠️ Archived - Apple ARKit example app
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) ⭐ 475 | 🐛 4 | 🌐 Swift | 📅 2018-10-22 - Snake 3D game 🐍
-* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 472 | 🐛 43 | 🌐 Swift | 📅 2026-10-27 - Twilio Video chat with AR in scene
+* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 473 | 🐛 43 | 🌐 Swift | 📅 2026-10-27 - Twilio Video chat with AR in scene
 * [ARStarter](https://github.com/codePrincess/ARStarter) ⭐ 470 | 🐛 0 | 🌐 Swift | 📅 2021-11-24 - get started with ARKit - a little exercise for beginners.
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) ⭐ 409 | 🐛 3 | 🌐 Swift | 📅 2017-08-25 - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived - ARKit based tic-tac-toe with a decent AI opponent
@@ -79,7 +79,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARStack](https://github.com/XanderXu/ARStack) ⚠️ Archived - AR version Stack game with ARKit in Swift
 * [ARKitDemoPlayground](https://github.com/mhanlon/ARKitDemoPlayground) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2018-10-16 - A demo of the ARKit Demo project from Xcode 9 as a Swift Playground
 * [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) ⭐ 43 | 🐛 3 | 🌐 Swift | 📅 2018-08-13 - Create and view fully interactive business cards.
-* [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) ⭐ 41 | 🐛 3 | 🌐 Swift | 📅 2020-04-27 - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
+* [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) ⭐ 42 | 🐛 3 | 🌐 Swift | 📅 2020-04-27 - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
 * [ARRubiks](https://github.com/Nicholas714/ARRubiks) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2018-05-25 - A Rubik's Cube that you can put on a table
 * [ARMultiuser](https://github.com/szt243660543/ARMultiuser) ⭐ 34 | 🐛 0 | 🌐 Objective-C | 📅 2018-06-05 - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) ⭐ 33 | 🐛 2 | 🌐 Swift | 📅 2018-10-11 - Show a Block Tower to see how you can stack up against gravity
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

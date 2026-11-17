@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1548,
+            "stars": 1549,
             "topics": [
               "arkit",
               "coreml",
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1216,
+            "stars": 1217,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -333,7 +333,7 @@
             "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 785,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -591,7 +591,7 @@
             "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -1711,7 +1711,7 @@
             "open_issues": 3,
             "owner": "vhanagwal",
             "repo": "ARRuler",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T11:01:35.917Z",
+    "last_updated": "2026-11-17T11:42:56.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
