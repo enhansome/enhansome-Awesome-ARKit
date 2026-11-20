@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "iOS-11-by-Examples",
-            "stars": 3283,
+            "stars": 3281,
             "topics": [
               "arkit",
               "core-nfc",
@@ -116,7 +116,7 @@
             "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1693,
+            "stars": 1692,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -144,7 +144,7 @@
             "open_issues": 56,
             "owner": "AFathi",
             "repo": "ARVideoKit",
-            "stars": 1648,
+            "stars": 1647,
             "topics": [
               "arkit",
               "ios"
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "ARKit-Sampler",
-            "stars": 1549,
+            "stars": 1548,
             "topics": [
               "arkit",
               "coreml",
@@ -198,7 +198,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "ARTetris",
-            "stars": 1524,
+            "stars": 1523,
             "topics": [
               "arkit",
               "ios",
@@ -253,7 +253,7 @@
             "open_issues": 8,
             "owner": "shu223",
             "repo": "iOS-Depth-Sampler",
-            "stars": 1217,
+            "stars": 1216,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -333,7 +333,7 @@
             "open_issues": 0,
             "owner": "laanlabs",
             "repo": "ARBrush",
-            "stars": 787,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -382,7 +382,7 @@
             "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 717,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -591,7 +591,7 @@
             "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 473,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -612,7 +612,7 @@
             "open_issues": 0,
             "owner": "codePrincess",
             "repo": "ARStarter",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:29:42.700Z",
+    "last_updated": "2026-11-20T11:25:33.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
@@ -2324,7 +2324,7 @@
       "open_issues": 8,
       "owner": "olucurious",
       "repo": "Awesome-ARKit",
-      "stars": 7993,
+      "stars": 7992,
       "topics": [
         "arkit",
         "augmented-reality",
