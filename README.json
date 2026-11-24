@@ -382,7 +382,7 @@
             "open_issues": 2,
             "owner": "SherlockQi",
             "repo": "HeavenMemoirs",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -454,7 +454,7 @@
             "open_issues": 0,
             "owner": "miliPolo",
             "repo": "ARSolarPlay",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "arkit",
               "ios",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "krayc425",
             "repo": "ARBottleJump",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "arkit",
               "arkit-demo",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T12:20:04.690Z",
+    "last_updated": "2026-11-24T13:33:09.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",

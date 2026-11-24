@@ -30,10 +30,10 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARShooter](https://github.com/farice/ARShooter) ⭐ 810 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
 * [ARBrush](https://github.com/laanlabs/ARBrush) ⭐ 786 | 🐛 0 | 🌐 Swift | 📅 2020-01-23 - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) ⭐ 719 | 🐛 2 | 🌐 Swift | 📅 2018-06-22 - Draw with bare fingers in the air using ARKit
-* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 716 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) ⭐ 715 | 🐛 2 | 🌐 Swift | 📅 2020-03-20 - AR相册 Photo Album For AR
 * [ARCharts](https://github.com/Boris-Em/ARCharts) ⭐ 694 | 🐛 8 | 🌐 Swift | 📅 2021-07-09 - 3D charts in AR
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
-* [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 611 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
+* [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 610 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) ⭐ 535 | 🐛 1 | 🌐 Swift | 📅 2019-07-22 - Power! Unlimited power for ARKit 2.0! (Samples)
 * [Findme](https://github.com/mmoaay/Findme) ⭐ 486 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) ⚠️ Archived - Apple ARKit example app
@@ -48,7 +48,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 331 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
 * [Baraba](https://github.com/nsoojin/baraba) ⭐ 323 | 🐛 0 | 🌐 Swift | 📅 2020-03-21 - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
 * [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) ⭐ 290 | 🐛 0 | 🌐 Swift | 📅 2017-11-16 - Show your GitHub commit records in 3D with ARKit and SceneKit
-* [ARBottleJump](https://github.com/songkuixi/ARBottleJump) ⭐ 282 | 🐛 0 | 🌐 Swift | 📅 2018-11-13 - An ARKit version of WeChat Bottle Jump game.
+* [ARBottleJump](https://github.com/songkuixi/ARBottleJump) ⭐ 281 | 🐛 0 | 🌐 Swift | 📅 2018-11-13 - An ARKit version of WeChat Bottle Jump game.
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) ⭐ 278 | 🐛 5 | 🌐 Swift | 📅 2025-03-05 - Bluetoothed ARKit 2.0 with ARWorldMap
 * [SceneKitVideoRecorder](https://github.com/svtek/SceneKitVideoRecorder) ⭐ 262 | 🐛 20 | 🌐 Swift | 📅 2020-11-26 - Video and Audio recorder for ARKit projects.
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) ⚠️ Archived - This project is a homage to Super Mario Bros.
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
