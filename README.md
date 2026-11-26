@@ -19,8 +19,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,526 | 🐛 52 | 🌐 Swift | 📅 2026-06-02 - Combines the high accuracy of AR with the scale of GPS data
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) ⭐ 3,281 | 🐛 0 | 🌐 Swift | 📅 2021-12-31 - Examples of new iOS 11 APIs
-* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,337 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
-* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,692 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
+* [NextLevel](https://github.com/nextlevel/NextLevel) ⭐ 2,336 | 🐛 12 | 🌐 Swift | 📅 2026-06-08 – Open Source ARKit Media Capture in Swift.
+* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) ⭐ 1,693 | 🐛 7 | 🌐 Swift | 📅 2021-08-23 - Simple project to detect objects and display 3D labels above them in AR.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) ⭐ 1,647 | 🐛 56 | 🌐 Swift | 📅 2022-10-24 - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) ⭐ 1,548 | 🐛 5 | 🌐 Swift | 📅 2023-11-04 - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [ARTetris](https://github.com/exyte/ARTetris) ⭐ 1,523 | 🐛 1 | 🌐 Swift | 📅 2023-07-25 - Augmented Reality Tetris made with ARKit and SceneKit
@@ -35,14 +35,14 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) ⭐ 627 | 🐛 0 | 🌐 Swift | 📅 2020-08-28 – This library uses ARKit Face Tracking in order to catch a user's smile.
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) ⭐ 610 | 🐛 0 | 🌐 Objective-C | 📅 2018-03-25 - Solar system in AR
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) ⭐ 535 | 🐛 1 | 🌐 Swift | 📅 2019-07-22 - Power! Unlimited power for ARKit 2.0! (Samples)
-* [Findme](https://github.com/mmoaay/Findme) ⭐ 486 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
+* [Findme](https://github.com/mmoaay/Findme) ⭐ 485 | 🐛 1 | 🌐 Swift | 📅 2017-12-12 – Using ARKit to find me.
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) ⚠️ Archived - Apple ARKit example app
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) ⭐ 475 | 🐛 4 | 🌐 Swift | 📅 2018-10-22 - Snake 3D game 🐍
-* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 472 | 🐛 43 | 🌐 Swift | 📅 2026-10-27 - Twilio Video chat with AR in scene
+* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) ⭐ 473 | 🐛 43 | 🌐 Swift | 📅 2026-10-27 - Twilio Video chat with AR in scene
 * [ARStarter](https://github.com/codePrincess/ARStarter) ⭐ 469 | 🐛 0 | 🌐 Swift | 📅 2021-11-24 - get started with ARKit - a little exercise for beginners.
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) ⭐ 409 | 🐛 3 | 🌐 Swift | 📅 2017-08-25 - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived - ARKit based tic-tac-toe with a decent AI opponent
-* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 382 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
+* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) ⭐ 383 | 🐛 4 | 🌐 Swift | 📅 2022-10-16 - Placing Virtual Objects in Augmented Reality
 * [Measure](https://github.com/levantAJ/Measure) ⭐ 382 | 🐛 3 | 🌐 Swift | 📅 2020-11-13 - Using ARKit to make calculate distance of real world objects
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) ⚠️ Archived - "Tracking" vertical planes and occluding virtual objects with real world geometry.
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo) ⭐ 331 | 🐛 4 | 🌐 Swift | 📅 2022-06-22
@@ -197,4 +197,4 @@ Your contributions are always welcome! To add, remove, or change things on the l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "NextLevel",
             "repo": "NextLevel",
-            "stars": 2337,
+            "stars": 2336,
             "topics": [
               "ar",
               "arkit",
@@ -116,7 +116,7 @@
             "open_issues": 7,
             "owner": "hanleyweng",
             "repo": "CoreML-in-ARKit",
-            "stars": 1692,
+            "stars": 1693,
             "topics": [
               "arkit",
               "augmented-reality",
@@ -507,7 +507,7 @@
             "open_issues": 1,
             "owner": "mmoaay",
             "repo": "Findme",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "apple",
               "arkit",
@@ -591,7 +591,7 @@
             "open_issues": 43,
             "owner": "twilio",
             "repo": "video-quickstart-ios",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:34.991Z"
@@ -684,7 +684,7 @@
             "open_issues": 4,
             "owner": "ignacio-chiazzo",
             "repo": "ARKit",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "apple",
               "ar",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T12:42:20.621Z",
+    "last_updated": "2026-11-26T12:16:34.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
